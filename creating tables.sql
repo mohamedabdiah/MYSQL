@@ -7,6 +7,8 @@ department varchar(255),
 hire_date Date
 );
 
+7
+
 drop table emplooyees
 
 create table users(
